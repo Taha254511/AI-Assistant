@@ -139,7 +139,7 @@ Both POST endpoints return JSON responses containing the generated text.
 
 ## 👨‍💻 Author
 
-**Taha Hussain**<img width="1266" height="996" alt="Screenshot 2026-10-11 150600" src="https://github.com/user-attachments/assets/6afd7805-08a7-4d56-97e5-718538b06e3c" />
+**Taha Hussain**
 
 ---
 
